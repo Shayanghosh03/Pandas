@@ -1,0 +1,13 @@
+10
+20
+Nan
+40
+50
+
+liner
+
+1- Preserve data integrity
+2- Smoth trends
+3- Avoid Data Loss
+
+interpolate()
